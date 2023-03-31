@@ -1,0 +1,171 @@
+.container .caixa1 .btn1{
+    position: absolute;
+    width: 115px;
+    height: 26px;
+    background: #D9D9D9;
+    border-radius: 10px;
+    top: 415px;
+    left: 75px;
+}
+
+.container .caixa1 .btn2{
+    position: absolute;
+    width: 115px;
+    height: 26px;
+    background: #D9D9D9;
+    border-radius: 10px;
+    top: 415px;
+    left: 313px;
+}
+
+.container .caixa2 .img1{
+    position: absolute;
+    width: 165px;
+    height: 205px;
+    border-radius: 12px;
+    left: 160px;
+}
+
+.container .caixa2 .img2{
+    width: 499px;
+    height: 323px;
+}
+
+.container .caixa2 .email{
+    position: absolute;
+    width: 231px;
+    height: 24px;
+    background: #FFFFFF;
+    border-radius: 10px;
+    top: 683px;
+    left: 135px;
+}
+
+.container .caixa2 .senha{
+    position: absolute;
+    width: 231px;
+    height: 24px;
+    background: #FFFFFF;
+    border-radius: 10px;
+    top: 731px;
+    left: 134px;
+}
+
+.container .caixa2 .login{
+    position: absolute;
+    width: 114px;
+    height: 20px;
+    background: #FFFFFF;
+    border-radius: 10px;
+    top: 779px;
+    left: 189px;
+}
+
+.container .caixa3 .img3{
+    position: absolute;
+    width: 172px;
+    height: 197px;
+    left: 155px;
+}
+
+.container .caixa3 .img4{
+    width: 498px;
+    height: 496px;
+}
+
+.container .caixa3 .nome{
+    position: absolute;
+    width: 231px;
+    height: 24px;
+    top: 1015px;
+    left: 127px;
+    background: #FFFFFF;
+    border-radius: 10px;
+}
+
+.container .caixa3 .data{
+    position: absolute;
+    width: 231px;
+    height: 24px;
+    background: #FFFFFF;
+    border-radius: 10px;
+    left: 127px;
+    top: 1058px;
+}
+
+.container .caixa3 .email2{
+    position: absolute;
+    width: 231px;
+    height: 24px;
+    top: 1099px;
+    left: 127px;
+    background: #FFFFFF;
+    border-radius: 10px;
+}
+
+.container .caixa3 .senha2{
+    position: absolute;
+    width: 231px;
+    height: 24px;
+    left: 127px;
+    top: 1139px;
+    background: #FFFFFF;
+    border-radius: 10px;
+}
+
+.container .caixa3 .btn3{
+    position: absolute;
+    width: 118px;
+    height: 20px;
+    left: 185px;
+    top: 1185px;
+    background: #FFFFFF;
+    border-radius: 10px;
+}
+
+
+.container .caixa3 .ou{
+    position: absolute;
+    width: 19px;
+    height: 18px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #000000;
+    top: 1213px;
+    left: 231px;
+}
+
+.container .caixa3 .btn5{
+    position: absolute;
+    width: 231px;
+    height: 24px;
+    background: #FFFFFF;
+    border-radius: 10px;
+    left: 127px;
+    top: 1244px;
+}
+
+.container .caixa3 .btn4{
+    position: absolute;
+    width: 231px;
+    height: 24px;
+    background: #FFFFFF;
+    border-radius: 10px;
+    left: 127px;
+    top: 1283px;
+}
+
+.container .caixa4 .img5{
+    position: absolute;
+    top: 8px;
+    left: 539px;
+}
+
+.container .caixa5 .img6{
+    position: absolute;
+    left: 539px;
+    top: 520px;
+}
